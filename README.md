@@ -21,16 +21,9 @@ Motivated Web Developer with around 2 Years for experience of creating and maint
  - **Blockchain** - (Competent)
  - **SEO and Analytics Techniques** - (Advance)
 
-
-# Publication
-
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
-
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
-
 ## Work Experience
 ***Freelance Web Developer*** - **(2020-07 - current)** 
-*Self Employed, Dehradun, UT*
+> *Self Employed, Dehradun, UT*
 
 I Have worked on various application development during this duration to accurately fulfil all the requirements required by the client. As a **full stack developer** my sole responsibilities are as follows:
 
@@ -42,7 +35,7 @@ I Have worked on various application development during this duration to accurat
 ## Education
 
 **High School Diploma: Science with Mathematics** - **(2021-04 - 2022-07)**
-S.G.R.R Public School Race Course - Dehradun
+> S.G.R.R Public School Race Course - Dehradun
 
 ## Languages
 
