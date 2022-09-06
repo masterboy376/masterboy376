@@ -1,9 +1,9 @@
 # Sambhav Kaushuk
->  ***Full Stack Web Developer***
-**Address**: 398, Nanak Vihar, D.dun, UT, India, 248001
-**Phone**: +91 6397511127
-**Email**: sambhavkaushik376@gmail.com
-**Website**: https://sambhav-kaushik.vercel.app/
+>  ***Full Stack Web Developer***;
+**Address**: 398, Nanak Vihar, D.dun, UT, India, 248001;
+**Phone**: +91 6397511127;
+**Email**: sambhavkaushik376@gmail.com ;
+**Website**: https://sambhav-kaushik.vercel.app/ ;
 
 Motivated Web Developer with around 2 Years for experience of creating and maintaining multiple modern, scalable and responsive web and mobile applications serving various purposes. Team friendly, adaptive and improvement driven developer with command on various programming languages ( like JavaScript & TypeScript, Python, C & C++, Java, etc. ), frameworks & libraries ( ReactJS, NextJS, NodeJS, Django, etc. ), databases ( like MongoDB, PostgreSQL, etc. ), utility software, best practices and system analytics. Organized, punctual and trustable person ready to contribute.
 
