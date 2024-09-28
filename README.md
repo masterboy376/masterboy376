@@ -19,7 +19,8 @@
 
 - :school: I am a Computer Science `Student`.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Machine Learning` and `DevOps`.
+- :student: I’m currently learning `Machine learning` and `DevOps`.
+- :technologist: I am a `open source contributor`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://cdn.sanity.io/files/kvdcs93e/production/d6af651ad39fc0d4ac2db9f3abd928e7edb733ce.pdf?dl=sambhav-kaushik-cv.pdf).
 - :boom: You can visit [MY WEBSITE](https://sambhav-kaushik.vercel.app/).
@@ -30,11 +31,9 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
-	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
-	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
+	<a href="https://leetcode.com/u/sambhavkaushik376/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+	<a href="https://www.codechef.com/users/sambhavkaushik"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
+	<a href="https://codeforces.com/profile/baby_conda"><img src="	https://codeforces.com/codeforces.org/s/17626/images/codeforces-sponsored-by-ton.png" alt="Code Forces" width = 60px /></a>
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
